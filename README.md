@@ -21,13 +21,6 @@ This project showcases a **complete multimodal RAG pipeline**, integrating visua
 - **Scalable & Extensible:** Easy to update with new datasets or LLM models  
 
 ---
-
-## Demo
-
-![Demo GIF/Screenshot](link-to-your-gif-or-screenshot)  
-
----
-
 ## Installation
 
 Clone the repo
